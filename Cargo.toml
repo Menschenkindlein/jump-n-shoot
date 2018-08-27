@@ -1,0 +1,7 @@
+[package]
+name = "jump-n-shoot"
+version = "0.1.0"
+authors = ["Maxim Zholobak <maxim.zholobak@grammarly.com>"]
+
+[dependencies]
+piston_window = "*"
